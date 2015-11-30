@@ -1,0 +1,42 @@
+  body{
+    padding: 0;
+    margin: 0;
+    background-color: #F2F2F2;
+    font-family: sans-serif;
+  }
+
+  img{
+    width: 100%;
+    margin-bottom: 5%;
+  }
+
+  #titre{
+    width: 100%;
+    font-size: 28px;
+    color: #BDBDBD;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px 0 20px 10px;
+    margin-top: 0;
+  }
+
+  .encadremedium{
+    width: 35%;
+    display: inline-block;
+    margin-left: 10%;
+  }
+
+  #barrehorizontale{
+    width: 60%;
+    text-align: center;
+  }
+
+  .divtexteliste{
+    width: 60%;
+    text-align: center;
+  }
+
+  .divtextemedium{
+    margin: 5% 25% 10% 20%;
+  }
+
+}
